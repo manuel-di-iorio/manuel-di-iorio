@@ -1,16 +1,15 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Manuel.;I'm+a+Software+Engineer.)](https://git.io/typing-svg)
 
 <!--
-**manuel-di-iorio/manuel-di-iorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![ghstats](https://github-readme-stats.vercel.app/api?username=manuel-di-iorio&count_private=true&show_icons=true&theme=discord_old_blurple)
 -->
+
+- 👉 My CV [here](https://docs.google.com/document/d/1HtlqEXgicTjrWIfqn22lbU7506oczbi7)
+- 🏢 Working at [TUI Musement](https://www.musement.com/it) as Software Engineer
+- 😄 Pronouns: He/Him
+- 🎯 Specialized in: Backend (Node.js) and Frontend (React/Vue) development
+- 🌱 I’m currently learning [Nuxt](https://nuxtjs.org) and [Next](https://nextjs.org)
+- 🚀 Favorite languages: TypeScript, Go, Python
+- 🎓 High school diploma in Quantity surveyor at ITGC Archimede of Napoli
+- ⚡ Hobbies: informatics, science, space, playing and making games
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-di-iorio-8a9087106)
