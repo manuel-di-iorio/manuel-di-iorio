@@ -8,8 +8,8 @@
 - 🏢 Working at [TUI Musement](https://www.musement.com/it) as Software Engineer
 - 😄 Pronouns: He/Him
 - 🎯 Specialized in: Backend (Node.js) and Frontend (React/Vue) development
-- 🌱 I’m currently learning [Nuxt](https://nuxtjs.org) and [Next](https://nextjs.org)
-- 🚀 Favorite languages: TypeScript, Go, Python
+- 🌱 I’m currently learning [Nuxt](https://nuxtjs.org), [Next](https://nextjs.org) and [Micro-Frontend](https://single-spa.js.org)
+- 🚀 Favorite languages: JavaScript, TypeScript, Python, Go
 - 🎓 High school diploma in Quantity surveyor at ITGC Archimede of Napoli
 - ⚡ Hobbies: informatics, science, space, playing and making games
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emmanuel-di-iorio-8a9087106)
